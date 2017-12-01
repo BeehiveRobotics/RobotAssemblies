@@ -69,7 +69,7 @@
                                     <value__PO__ws_val__PC__>File name:</value__PO__ws_val__PC__>
                                 </name>
                                 <value type="10" pointer="TRUE">
-                                    <value__PO__ws_val__PC__>C:\Users\Peter\Desktop\Non Repository Step Files\555128_assembly\555128 assembly.step</value__PO__ws_val__PC__>
+                                    <value__PO__ws_val__PC__>C:\Users\Peter\Desktop\ActoboticsStepFiles\Servos\ServoBlocks\StandardServoPlainShaft24T\535118 assembly.step</value__PO__ws_val__PC__>
                                 </value>
                             </attrs_ENTRY>
                             <attrs_ENTRY tag="Model name" pointer="TRUE">
@@ -77,7 +77,7 @@
                                     <value__PO__ws_val__PC__>Model name:</value__PO__ws_val__PC__>
                                 </name>
                                 <value type="10" pointer="TRUE">
-                                    <value__PO__ws_val__PC__>ASM0004</value__PO__ws_val__PC__>
+                                    <value__PO__ws_val__PC__>535118_ASSEMBLY</value__PO__ws_val__PC__>
                                 </value>
                             </attrs_ENTRY>
                         </attrs>
@@ -135,7 +135,7 @@
                                     <value__PO__ws_val__PC__>File name:</value__PO__ws_val__PC__>
                                 </name>
                                 <value type="10" pointer="TRUE">
-                                    <value__PO__ws_val__PC__>C:\Users\Peter\Desktop\Non Repository Step Files\555128_assembly\555128 assembly.step</value__PO__ws_val__PC__>
+                                    <value__PO__ws_val__PC__>C:\Users\Peter\Desktop\ActoboticsStepFiles\Servos\ServoBlocks\StandardServoPlainShaft24T\535118 assembly.step</value__PO__ws_val__PC__>
                                 </value>
                             </attrs_ENTRY>
                             <attrs_ENTRY tag="Model name" pointer="TRUE">
@@ -143,7 +143,7 @@
                                     <value__PO__ws_val__PC__>Model name:</value__PO__ws_val__PC__>
                                 </name>
                                 <value type="10" pointer="TRUE">
-                                    <value__PO__ws_val__PC__>555128_assembly_1_2_3_4_5</value__PO__ws_val__PC__>
+                                    <value__PO__ws_val__PC__>535118_assembly_1</value__PO__ws_val__PC__>
                                 </value>
                             </attrs_ENTRY>
                         </attrs>
@@ -201,7 +201,7 @@
                                     <value__PO__ws_val__PC__>File name:</value__PO__ws_val__PC__>
                                 </name>
                                 <value type="10" pointer="TRUE">
-                                    <value__PO__ws_val__PC__>C:\Users\Peter\Desktop\Non Repository Step Files\555128_assembly\555128 assembly.step</value__PO__ws_val__PC__>
+                                    <value__PO__ws_val__PC__>C:\Users\Peter\Desktop\ActoboticsStepFiles\Servos\ServoBlocks\StandardServoPlainShaft24T\535118 assembly.step</value__PO__ws_val__PC__>
                                 </value>
                             </attrs_ENTRY>
                             <attrs_ENTRY tag="Model name" pointer="TRUE">
@@ -209,7 +209,7 @@
                                     <value__PO__ws_val__PC__>Model name:</value__PO__ws_val__PC__>
                                 </name>
                                 <value type="10" pointer="TRUE">
-                                    <value__PO__ws_val__PC__>555128_screw_92005A116_1_2_3_4</value__PO__ws_val__PC__>
+                                    <value__PO__ws_val__PC__>535118</value__PO__ws_val__PC__>
                                 </value>
                             </attrs_ENTRY>
                         </attrs>
@@ -267,7 +267,7 @@
                                     <value__PO__ws_val__PC__>File name:</value__PO__ws_val__PC__>
                                 </name>
                                 <value type="10" pointer="TRUE">
-                                    <value__PO__ws_val__PC__>C:\Users\Peter\Desktop\Non Repository Step Files\555128_assembly\555128 assembly.step</value__PO__ws_val__PC__>
+                                    <value__PO__ws_val__PC__>C:\Users\Peter\Desktop\ActoboticsStepFiles\Servos\ServoBlocks\StandardServoPlainShaft24T\535118 assembly.step</value__PO__ws_val__PC__>
                                 </value>
                             </attrs_ENTRY>
                             <attrs_ENTRY tag="Model name" pointer="TRUE">
@@ -275,7 +275,7 @@
                                     <value__PO__ws_val__PC__>Model name:</value__PO__ws_val__PC__>
                                 </name>
                                 <value type="10" pointer="TRUE">
-                                    <value__PO__ws_val__PC__>555128_1_2_3_4</value__PO__ws_val__PC__>
+                                    <value__PO__ws_val__PC__>_5_x__75_non_flanged_bearing</value__PO__ws_val__PC__>
                                 </value>
                             </attrs_ENTRY>
                         </attrs>
